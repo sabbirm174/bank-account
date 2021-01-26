@@ -1,3 +1,20 @@
+
 #transaction-area{
     display: none;
+}
+.status{
+    margin: 0 3rem;
+    color:white;
+    padding: 20px;
+    border-radius: 4px;
+
+}
+.deposit{
+    background-color: slateblue;
+}
+.withdrow{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: orange;
 }
